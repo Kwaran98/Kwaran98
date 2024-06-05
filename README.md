@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kwaran98
+- 👋 Hi, I’m Kamalesh
+- 🌱 I am singaporean
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python, C++ and System Verilog
 - 💞️ I’m looking to collaborate on projects that involve those coding languages
